@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp"
+    android:textAlignment="center"
+    android:layout_centerVertical="true"
+    android:layout_centerHorizontal="true"
+    android:textColor="#fff"
+    android:textSize="18sp"
+    android:background="@color/colorPrimary"
+    android:layout_marginBottom="16dp"
+    android:layout_marginTop="16dp"
+    android:gravity="center_horizontal"
+    >
+
+</android.widget.TextView>
